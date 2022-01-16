@@ -1,3 +1,7 @@
 .btn-rate {
     background-color: var(--color-primary);
 }
+
+.dsmovie-card-bottom-container h3 {
+    font-size: 17px !important;
+}
